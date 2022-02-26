@@ -2,8 +2,8 @@
   "title": "Image Hotspots",
   "description": "Add hotspots with useful information and media to an image.",
   "majorVersion": 1,
-  "minorVersion": 9,
-  "patchVersion": 4,
+  "minorVersion": 10,
+  "patchVersion": 0,
   "runnable": 1,
   "author": "Joubel",
   "license": "MIT",
@@ -37,6 +37,11 @@
       "machineName": "FontAwesome",
       "majorVersion": 4,
       "minorVersion": 5
+    },
+    {
+      "machineName": "FontKidsLoop",
+      "majorVersion": 1,
+      "minorVersion": 0
     },
     {
       "machineName": "H5P.Transition",
